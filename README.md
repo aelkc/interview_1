@@ -25,7 +25,8 @@ Example:
 ``
 
 Note: 
-- Ignore the negetive quantity value in calculation, it could be a rubbish data 
+- Ignore the negative quantity value in calculation, it could be a rubbish data 
+- Feed transaction 'Quantity' wrong spelling in json file, handle it with correct spelling on variable name 
 
 ##### 3. Convert project to maven 
 
